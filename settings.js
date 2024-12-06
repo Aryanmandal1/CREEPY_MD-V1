@@ -1459323,7 +1459323,7 @@ global.bimg = '//9j/4AAQSkZJRgABAQAAAQABAAD/4gIoSUNDX1BST0ZJTEUAAQEAAAIYAAAAAAQw
 global.ytname = "\u0059\u0054\u003A\u0020\u0068\u0074\u0074\u0070\u0073\u003A\u002F\u002F\u0077\u0077\u0077\u002E\u0079\u006F\u0075\u0074\u0065\u002E\u0063\u006F\u006D\u002F\u0040\u0063\u0072\u0065\u0065\u0070\u0079\u005F\u0074\u0065\u0063\u006800" 
 global.socialm = "\u0047\u0069\u0074\u0048\u0075\u0062\u003A\u0020\u0068\u0074\u0074\u0070\u0073\u003A\u002F\u002F\u0067\u0069\u0074\u0068\u0075\u0062\u002E\u0063\u006F\u006D\u002F\u0044\u0061\u006E\u0069\u00656\u0032\u0032\u002D\u0067\u0069\u0066\u007400" 
 global.location = "\u0041\u0072\u0075\u0073\u0068\u002F\u0054\u0061\u006E\u007A\u0061\u006E\u0061"
-global.ownername = "𝒟𝒶𝓃𝓃𝓎" 
+global.ownername = "aryan" 
 global.botname = "\u0043\u0052\u0045\u0045\u0050\u0059\u005F\u004D\u0044\u002D\u0056\u0031" //name of the bot
 
 //sticker details
@@ -1459335,7 +1459335,7 @@ global.themeemoji = "\uD83E\uDD16"
 global.wm = "\u0044\u0061\u006E\u006E\u0079"
 
 
-global.link = "https://whatsapp.com/channel/0029VacQFw65Ui2gGv0Kwk1r"
+global.link = "https://whatsapp.com/channel/0029VacQFw65Ui2gGv0Kwk1"
 
 global.typemenu = "\u0076\u0031"
 
